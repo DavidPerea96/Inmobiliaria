@@ -7,7 +7,7 @@
 </div>
   <div class="container">
   <div class="text-center" style="font-family: didot;">
-    <p>Esta es una pagina desarrollada por David Perea a modo de proyecto personal, enfocada en el posible uso
+    <p style="font-family: didot;">Esta es una pagina desarrollada por David Perea a modo de proyecto personal, enfocada en el posible uso
     para una inmobiliaria real, dicha Web aun esta en desarrollo, adecuandose al nivel actual de capacidades del
      desarrollador. Para mas informacion y contacto encontraran informacion en el pie de pagina. Gracias.</p>
      <br><br><br><br><br><br><br><br><br><br><br><br>
