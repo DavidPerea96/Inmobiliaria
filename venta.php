@@ -117,7 +117,7 @@
     ?>
     <div class="row justify-content-center">
       <div class="card-group">
-        <div class="card" style="width:600px">
+        <div class="card" style="width: device-width; max-width: 600px;">
           <img class="card-img-top" src="<?php echo $house['foto']; ?>" alt="Card image">
             <div class="card-body">
                 <h4 class="card-title"><?php echo $house['direccion'] ?></h4>
